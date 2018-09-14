@@ -4,9 +4,23 @@
 
 Simple Hello World App Demo
 
+It consists of the following items:
+
+* A button
+* A label
+
+The text color of the label changes from *BLACK* to *BLUE* , when we click on the button.
+
 ### App Walk-though
 
-<img src="http://recordit.co/XhKlNLXmZ8" width=200><br>
+![](http://g.recordit.co/XhKlNLXmZ8.gif)
+
+
+
+
+
+
+
 
 
 ### Required User Stories
