@@ -13,7 +13,7 @@ The text color of the label changes from *BLACK* to *BLUE* , when we click on th
 
 ### App Walk-though
 
-![](http://g.recordit.co/XhKlNLXmZ8.gif)
+![](http://g.recordit.co/UfxPHojjEd.gif)
 
 
 
